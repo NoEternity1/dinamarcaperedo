@@ -1,0 +1,45 @@
+html, body {
+    background: #520800;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #520800;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-custom-white {
+    background-color: #eaeaea;
+}
+
+
+
+
+
+
+
+/* eliminar cuando este listo */
+.box-image-450x450 {
+    width: 450px;
+    height: 450px;
+    background-color: #520800;
+    border: 5px white solid;
+    align-items: center;
+}
+
+.box-image-300x300 {
+    width: 300px;
+    height: 300px;
+    background-color: #520800;
+    border: 5px white solid;
+}
+
+.box-slide {
+    width: 100%;
+    height: 400px;
+    background-color: #520800;
+    border: 5px white solid;
+    color: white;
+}
