@@ -1,5 +1,6 @@
 html, body {
-    background: #520800;
+    background: #eaeaea;
+    color: black;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -19,6 +20,31 @@ html, body {
     background-color: #eaeaea;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.peredo {
+    background-image: url(../images/aldo_lom.jpg);
+    background-color: #eaeaea;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 570px;
+}
+
+.dinamarca {
+    background-image: url(../images/imng_cubiewrta_leo.jpg);
+    background-color: #eaeaea;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 570px;
+}
+
+.nosotros-desc {
+    width: 300px;
+    height: 100%;
+    /* background-color: blue; */
+    padding: 20px;
 }
 
 
@@ -48,4 +74,28 @@ html, body {
     background-color: #520800;
     border: 5px white solid;
     color: white;
+}
+.test-alto {
+    max-height: 570px;
+    max-width: 100%;
+}
+
+.box-product-1 {
+    height: 600px;
+    width: 100%;
+    background-color: #520800;
+    border: 5px white solid;
+}
+
+.box-product-2-3 {
+    height: 300px;
+    width: auto;
+    background-color: #520800;
+    border: 5px white solid;
+}
+
+.box-nosotros-test {
+    width: 100%;
+    height: 570px;
+    
 }
