@@ -3,6 +3,9 @@ html, body {
     color: black;
 }
 
+.bg-red-corp {
+    background-color: #520800;
+}
 .navbar-light .navbar-nav .nav-link {
     color: #520800;
 }
@@ -98,4 +101,9 @@ html, body {
     width: 100%;
     height: 570px;
     
+}
+
+.text-justify-test {
+    text-align: justify;
+    text-justify: inter-word;
 }
